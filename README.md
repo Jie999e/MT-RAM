@@ -1,0 +1,1 @@
+This is the code for the paper, MT-RAM: Multi Task-Recurrent Attention Model for Partially Observable Image Anomaly Classification and Localization. You can use it for any image dataset for the object of classification and localization.
